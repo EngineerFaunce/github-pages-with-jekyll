@@ -1,16 +1,12 @@
 ---
 title: "GitHub Pages"
 date: 2019-03-05
----
 
 author: EngineerFaunce
 email: EngineerFaunce@users.noreply.github.com
 description: My version of the GitHub Pages tutorial. # this means to ignore newlines until "baseurl:"
 
-# social links
-twitter_username: your-twitter-handle
-github_username:  EngineerFaunce
-
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+---
